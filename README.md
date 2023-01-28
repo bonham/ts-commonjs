@@ -1,0 +1,1 @@
+This repo shows a simple example how to create and consume a commonJS like module in typescript
